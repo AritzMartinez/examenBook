@@ -3,7 +3,7 @@ class Database {
 	public static $db;
 	public static $con;
 	function Database(){
-		$this->user="b8ba9d94f28aff";$this->pass="a8337514";$this->host="eu-cdbr-west-02.cleardb.net";$this->ddbb="heroku_f51a3950727cd14";
+		$this->user="bdf8ec33b5fa21";$this->pass="9c86d536";$this->host="us-cdbr-iron-east-04.cleardb.net";$this->ddbb="heroku_cd33c3fffed1217";
 	}
 
 	function connect(){
